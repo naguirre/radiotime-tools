@@ -12,3 +12,5 @@ audio playback support under Flash, HTML5 (iPad only), CE-HTML, and Songbird.
 a UI-less flash player
 
 Please see the documentation http://inside.tunein.com/
+
+For access to the documentation please contact Tunein at partners@tunein.com
